@@ -6,6 +6,6 @@ You can find more explanation at
 
 Medium: https://medium.com/@muhammadfhadli20/analyze-tweets-for-disaster-text-detection-ae44b39dbec2?source=friends_link&sk=63bc2eb517b843e30096cfc8bb81e856
 
-Youtube: https://github.com/muhammadfhadli1453/Real-or-Not-NLP-with-Disaster-Tweets
+Youtube: https://youtu.be/RaYtop5IHN8
 
-My Website: 
+My Website: https://fhadlisboard.com/index.php/2020/01/26/nlp-for-disaster-tweets-detection/
